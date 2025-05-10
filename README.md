@@ -20,6 +20,7 @@
 </html>
 
 //style.css
+
 body {
     font-family: Arial, sans-serif;
     background-color: #5e0234;
@@ -66,6 +67,7 @@ button:hover {
 }
 
 //script.js
+
 const quotes = [
     "The best way to predict the future is to create it. - Peter Drucker",
     "Life is 10% what happens to us and 90% how we react to it. - Charles R. Swindoll",
